@@ -1,0 +1,27 @@
+{
+  "name": "7-02",
+  "version": "1.0.0",
+  "description": "Homework web_7-02",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugenyVinogradov/Web_7-02.git"
+  },
+  "keywords": [
+    "web_7-02"
+  ],
+  "author": "Eugeny Vinogradov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugenyVinogradov/Web_7-02/issues"
+  },
+  "homepage": "https://github.com/EugenyVinogradov/Web_7-02#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "prettier": "^2.5.1"
+  }
+}
